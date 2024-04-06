@@ -64,4 +64,4 @@ def lambda_handler(event, context):
 _That's it! You have now created a Lambda function that will be triggered on each file upload to the specified S3 bucket. You can extend the Lambda function to perform any processing or actions you require on the uploaded files._
 
 
-```In the end, export Log Events as .csv and sent me via slack```
+```In the end, export Log Events as .csv and sent me via slack. And don't forget to END LAB session.```
