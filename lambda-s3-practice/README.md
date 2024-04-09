@@ -36,7 +36,8 @@ Click on it and start a lab environment. Wait ~3 minutes, until your AWS environ
 
 #### 5. Write Lambda Function Code:
 
-```import json
+```
+import json
 import boto3
 
 s3_client = boto3.client('s3')
